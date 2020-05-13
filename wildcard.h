@@ -1,5 +1,5 @@
 //=============================================================================
-// Author: Louka Dlagnekov
+// Author: Louka Dlagnekov UNICODE support: Michael Haephrati
 // File: wildcard.cpp
 // Description: This code compares a file name with a filter to determine
 //              whether the filter properly matches the file name.
