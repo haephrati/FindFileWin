@@ -4,7 +4,7 @@
 // Searches for files and folders with a variety of different options in 
 // a given location
 //
-// Author: Louka Dlagnekov
+// Author: Louka Dlagnekov UNICODE support: Michael Haephrati
 //
 // This source code is free software; you can redistribute it and/or
 // modify it any way you see fit as long as this statement and the original
